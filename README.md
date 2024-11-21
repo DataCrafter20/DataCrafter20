@@ -3,11 +3,12 @@ Hi, I'm Ndivhuwo!💯
 ## About Me
 
 - 🍃 I’m currently working on a Basic Chatbot, which aims to improve customer experience by offering 24/7 services.
-- 🌟 I’m currently studying Computer Science at Rhodes University and I'm also on an internship program with Edureka to enhance my skills in Data Science and Machine Learning.
-- 📚 I’m looking to collaborate on Data Science and Machine Learning projects because I want to see myself as a successful Data Scientist.- 💬 Ask me about Python for Data Science; I love discussing it and sharing what I know.
+- 🌟 I’m currently studying Computer Science at Rhodes University 
+- 📚 I’m looking to collaborate on Data Science and Machine Learning projects because I want to see myself as a successful Data Scientist.
+- - 💬 Ask me about Python for Data Science; I love discussing it and sharing what I know.
 - 📫 How to reach me: nmunyai11@gmail.com.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a dedicated and determined individual with a strong work ethic, motivated by the pursuit of excellence in all my endeavors. My passion for football has honed my strategic thinking abilities and fostered a strong sense of teamwork. I embrace challenges with enthusiasm, undeterred by my humble beginnings, as I firmly believe that hard work and unwavering determination are the keys to success. I successfully satisfied the requirements of Python for Data Science and earned a certificate from IBM.
+- ⚡ Fun fact: I am a dedicated and determined individual with a strong work ethic, motivated by the pursuit of excellence in all my endeavors.I firmly believe that hard work and unwavering determination are the keys to success. I successfully satisfied the requirements of Python for Data Science and earned a certificate from IBM.
 
 ## My Projects
 
