@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/DataCrafter20/DataCrafter20/blob/7db93b98d75df9c60bf93eac3c715cba402a3782/banner.jpg" alt="banner" width="100%" />
+  <img src="" alt="banner" width="100%" />
 </p>
 
 
