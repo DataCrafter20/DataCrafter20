@@ -96,7 +96,7 @@
 
 ### 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/ndivhuwo-munyai)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](www.linkedin.com/in/ndivhuwo-munyai-390a58337)  
 📧 nmunyai11@gmail.com
 
 ---
