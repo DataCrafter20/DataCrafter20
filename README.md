@@ -9,7 +9,7 @@
 ### 🧠 About Me
 - 🎓 BSc Student in Applied Mathematics & Computer Science at **Rhodes University** (2024–Present)  
 - 🧰 Strong foundation in Python, Java, SQL, C/C++ and data visualization  
-- 🌱 Currently building a **Chatbot**, exploring **AI-powered tools**, and doing hands-on data science projects  
+- 🌱 Currently building a **Chatbot**, exploring **AI-powered tools** and doing hands-on projects  
 - 💡 I believe in **learning by doing**
 
 📊 Passionate about:  
