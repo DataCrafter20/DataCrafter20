@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/DataCrafter20/DataCrafter20/main/assets/banner.gif" alt="DataCrafter20 Banner" style="width:100%;"/>
+<img src="[https://raw.githubusercontent.com/DataCrafter20/DataCrafter20/main/assets/banner.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fdata&psig=AOvVaw0geSeUcCF91zdVe85sE4yE&ust=1750383048217000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiW94Gx_I0DFQAAAAAdAAAAABAE)" alt="DataCrafter20 Banner" style="width:100%;"/>
 
 <h1 align="center">Hi, I'm Ndivhuwo Munyai 👋</h1>
 
