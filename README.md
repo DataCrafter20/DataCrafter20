@@ -23,7 +23,7 @@
 <p align="center">
   <a href="mailto:nmunyai11@gmail.com"><img src="https://img.shields.io/badge/Email-nmunyai11@gmail.com-blue?style=flat&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/ndivhuwo-munyai"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat&logo=linkedin"></a>
-  <a href="https://github.com/DataCrafter20"><img src="https://img.shields.io/github/followers/ndivhuwomunyai?label=GitHub&style=social"></a>
+  <a href="https://github.com/DataCrafter20"><img src="https://img.shields.io/github/followers/DataCrafter20?label=GitHub&style=social"></a>
 </p>
 
 ---
