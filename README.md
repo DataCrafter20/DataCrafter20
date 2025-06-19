@@ -4,12 +4,16 @@
 <h1 align="center">Hi, I'm Ndivhuwo Munyai 👋</h1>
 <h3 align="center">Aspiring Data Scientist | BSc Applied Mathematics & Computer Science Student at Rhodes University</h3>
 
-
 ---
 
-### 🚀 About Me
+### 🧠 About Me
+- 🎓 BSc Student in Applied Mathematics & Computer Science at **Rhodes University** (2024–Present)  
+- 📊 Passionate about **Data Science**, **Machine Learning**, and **Solving Real-World Problems**
+- 🧰 Strong foundation in Python, Java, SQL, C/C++, and data visualization  
+- 🏆 Best Participant – **Skills for the Future Program (SFFP)**  
+- 🌱 Currently building a **Chatbot**, exploring **AI-powered tools**, and doing hands-on data science projects  
+- 💡 I believe in **learning by doing**, and using data to drive innovation
 
-🎓 BSc Student @ Rhodes University  
 📊 Passionate about:  
 - &nbsp;&nbsp;&nbsp;&nbsp;📈 Data Science  
 - &nbsp;&nbsp;&nbsp;&nbsp;🤖 Machine Learning  
