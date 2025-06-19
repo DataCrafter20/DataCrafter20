@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fdata&psig=AOvVaw0geSeUcCF91zdVe85sE4yE&ust=1750383048217000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiW94Gx_I0DFQAAAAAdAAAAABAE"/>
+<img src="https://cdn.pixabay.com/photo/2020/08/06/19/29/artificial-intelligence-5462080_1280.jpg" alt="DataCrafter20 Banner" style="width:100%;"/>
 
 <h1 align="center">Hi, I'm Ndivhuwo Munyai 👋</h1>
 <h3 align="center">BSc Applied Mathematics & Computer Science Student at Rhodes University</h3>
