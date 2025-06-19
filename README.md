@@ -1,3 +1,4 @@
+![Banner](banner.png)
 
 <h1 align="center">Hi, I'm Ndivhuwo Munyai 👋</h1>
 <h3 align="center">BSc Applied Mathematics & Computer Science Student at Rhodes University</h3>
