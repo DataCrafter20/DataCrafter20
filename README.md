@@ -1,17 +1,6 @@
-<!-- 👑 Stylish Header for GitHub Profile README.md -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+there+👋+I'm+Ndivhuwo+Munyai;Aspiring+Data+Scientist+from+South+Africa;BSc+Applied+Math+%2B+Computer+Science+Student;Turning+Data+into+Insights+🚀" alt="Typing SVG" />
-  
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Science-FF6F61?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  
-  <br><br>
-</div>
-
+<h1 align="center" style="font-size: 48px; font-weight: bold; letter-spacing: 2px;">
+  <code>DataCrafter 20</code>
+</h1>
 
 <h1 align="center">Hi, I'm Ndivhuwo Munyai 👋</h1>
 <h3 align="center">BSc Applied Mathematics & Computer Science Student at Rhodes University</h3>
