@@ -12,13 +12,12 @@
 
 ### 🚀 About Me
 
-🌍 From Sibasa, Limpopo, South Africa  
 🎓 BSc Student @ Rhodes University  
 📊 Passionate about:  
 &nbsp;&nbsp;&nbsp;&nbsp;📈 Data Science  
 &nbsp;&nbsp;&nbsp;&nbsp;🤖 Machine Learning  
-&nbsp;&nbsp;&nbsp;&nbsp;🧠 AI for Good  
-👨‍💻 Currently learning: Deep Learning, Streamlit Dashboards  
+&nbsp;&nbsp;&nbsp;&nbsp;🧠 AI 
+&nbsp;&nbsp;&nbsp;&nbsp; 💻 Software   
 📫 Reach me at: nmunyai11@gmail.com  
 
 ---
