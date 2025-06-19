@@ -61,13 +61,15 @@
 
 ---
 
-### 🏅 Certifications
+### 💼 Certifications
+| Certificate | Platform |
+|------------|----------|
+| [Data Analysis with Python](https://courses.cognitiveclass.ai/certificates/f798801fd3ad4056aaf5edd22b2a430d) | IBM / Cognitive Class |
+| [Python 101 for Data Science](https://courses.cognitiveclass.ai/certificates/95cdd594e740449abaed4e931bb3c735) | IBM / Cognitive Class |
+| Data Science & AI Bootcamp | Datamites |
+| Lean Six Sigma White Belt | MF Treinamentos |
 
-📜 [Data Analysis with Python (IBM/Cognitive Class)](https://courses.cognitiveclass.ai/certificates/f798801fd3ad4056aaf5edd22b2a430d)  
-📜 [Python 101 for Data Science (IBM/Cognitive Class)](https://courses.cognitiveclass.ai/certificates/95cdd594e740449abaed4e931bb3c735)  
-📜 Data Science Bootcamp (Datamites)  
-📜 Lean Six Sigma White Belt (MF Treinamentos)  
-📜 Edureka Data Science & ML Program  
+---
 
 ---
 
@@ -88,8 +90,7 @@
 
 - 🧩 Multilingual: English, Venda, Zulu, Pedi  
 - ⚽ Loves football for strategy and discipline  
-- 💬 Always down to talk about data, innovation, or emerging tech!  
-- 🧘 Currently practicing discipline and self-mastery through stoic principles
+- 💬 Always down to talk about data, innovation or emerging tech!  
 
 ---
 
