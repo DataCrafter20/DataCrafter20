@@ -91,7 +91,9 @@
 ---
 
 ### 🤝 Let’s Connect
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/ndivhuwo-munyai-390a58337">
+</p>
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https:ndivhuwo-munyai-390a58337)
 - [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nmunyai11@gmail.com) 
 
