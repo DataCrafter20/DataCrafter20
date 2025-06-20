@@ -92,10 +92,12 @@
 
 ### 🤝 Let’s Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/ndivhuwo-munyai-390a58337">
+  <a href="mailto:nmunyai11@gmail.com"><img src="https://img.shields.io/badge/Email-nmunyai11@gmail.com-blue?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/ndivhuwo-munyai-390a58337"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat&logo=linkedin"></a>
+  <a href="https://github.com/DataCrafter20"><img src="https://img.shields.io/github/followers/DataCrafter20?label=GitHub&style=social"></a>
 </p>
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https:ndivhuwo-munyai-390a58337)
-- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nmunyai11@gmail.com) 
+
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nmunyai11@gmail.com) 
 
 ---
 
