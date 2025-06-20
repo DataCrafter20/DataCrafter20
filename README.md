@@ -78,7 +78,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DataCrafter20&show_icons=true&theme=tokyonight&hide=issues" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DataCrafter20&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/DataCrafter20&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
