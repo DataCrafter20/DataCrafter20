@@ -75,8 +75,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DataCrafter20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DataCrafter20&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DataCrafter20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -94,10 +92,8 @@
 
 ### 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ndivhuwo-munyai-390a58337) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ndivhuwo Munyai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nmunyai11@gmail.com) 
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](www.linkedin.com/in/ndivhuwo-munyai-390a58337)  
-📧 nmunyai11@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ndivhuwo-munyai-390a58337)
+- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nmunyai11@gmail.com) 
 
 ---
 
@@ -109,6 +105,6 @@
 _Thank you for visiting my profile! Keep learning, keep building 🌟_
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DataCrafter20&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
