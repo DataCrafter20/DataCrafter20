@@ -97,8 +97,6 @@
   <a href="https://github.com/DataCrafter20"><img src="https://img.shields.io/github/followers/DataCrafter20?label=GitHub&style=social"></a>
 </p>
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nmunyai11@gmail.com) 
-
 ---
 
 > *“Success is not a matter of luck, but a result of consistent work and resilience.”*
