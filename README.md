@@ -84,7 +84,6 @@
 
 ### 🌱 Fun Facts
 
-- 🧩 Multilingual: English, Venda, Zulu, Pedi  
 - ⚽ Loves football for strategy and discipline  
 - 💬 Always down to talk about data, innovation or emerging tech!  
 
