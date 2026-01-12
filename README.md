@@ -3,14 +3,14 @@
 </h1>
 
 <h1 align="center">Hi, I'm Ndivhuwo Munyai 👋</h1>
-<h3 align="center">BSc Applied Mathematics & Computer Science Student at Rhodes University</h3>
+<h3 align="center">AI Data Annotator | BSc Computer Science, Information Systems & Applied Mathematics Student | Python, SQL | Aspiring Data, AI & ML Professional</h3>
 
 ---
 
 ### 🧠 About Me
-- 🎓 BSc Student in Applied Mathematics & Computer Science at **Rhodes University** (2024–Present)  
-- 🧰 Strong foundation in Python, Java, SQL, C/C++ and data visualization  
-- 🌱 Currently building a **Chatbot**, exploring **AI-powered tools** and doing hands-on projects  
+- 🎓 Aspiring Data, AI & ML Professional
+- 🧰 Strong foundation in Python, Java, SQL, AI/ML and data visualization  
+- 🌱 Currently building & Solving Data related problems, exploring **AI-powered tools** and doing hands-on projects  
 - 💡 I believe in **learning by doing**
 
 📊 Passionate about:  
