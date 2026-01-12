@@ -15,7 +15,7 @@
 - 💡 I believe in **learning by doing**
 
 📊 Passionate about:  
-- &nbsp;&nbsp;&nbsp;&nbsp;📈 Data Science  
+- &nbsp;&nbsp;&nbsp;&nbsp;📈 Data Science & Analysis  
 - &nbsp;&nbsp;&nbsp;&nbsp;🤖 Machine Learning  
 - &nbsp;&nbsp;&nbsp;&nbsp;🧠 AI 
 - &nbsp;&nbsp;&nbsp;&nbsp;💻 Software   
@@ -46,20 +46,25 @@
 
 ### 🧠 Projects
 
-- 🎯 **COVID-19 Data Dashboard**  
-  *Pandas + Matplotlib + Streamlit*  
-  [Cleaned, analyzed & visualized COVID data with interactive trends dashboard.]
+- **🧮 Mathematical Game**
+Python
+[Interactive arithmetic game that generates random math problems to improve numerical reasoning, logic, and problem-solving skills.]
 
-- 🔐 **Hidden Message Decoder**  
-  *Python, Unicode Parsing*  
-  [Extracts visual message from coordinates and encoded grid.]
+- **🎯 COVID-19 Data Analysis & Dashboard**
+Pandas + Matplotlib + Streamlit
+[Cleaned, analyzed, and visualized large-scale COVID-19 datasets with exploratory data analysis and an interactive dashboard for trend interpretation.]
 
-- 🤖 **Basic Chatbot (WIP)**  
-  *Python, NLP concepts*  
-  [24/7 assistant for answering FAQs and simulating human-like dialogue.]
+- **🔐 Hidden Message Decoder**
+Python, Unicode Parsing
+[Automates decoding of hidden visual messages embedded in structured Unicode grids, eliminating manual inspection and reducing errors.]
 
-- 🧮 **Mathematical Game & Number Guesser**  
-  *Beginner-friendly logic games for arithmetic & control flow mastery.*
+- **🗄️ MongoDB Student Records Terminal App**
+Python, MongoDB, Faker
+[Terminal-based application for managing university student records with full CRUD operations, advanced queries, array updates, and data aggregation.]
+
+- **🤖 AURA – Emotion-Aware AI Assistant**
+Python, PyTorch, Hugging Face, NLP, Streamlit
+[Emotion-aware AI system that detects emotional states from text using a fine-tuned Transformer model and generates empathetic, real-time responses.]
 
 ---
 
