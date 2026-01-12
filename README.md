@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Ndivhuwo Munyai 👋</h1>
 <h3 align="center">AI Data Annotator | BSc Computer Science, Information Systems & Applied Mathematics Student |</h3>
-<h3 align="center">| ### Aspiring Data, AI & ML Professional |</h3>
+<h3 align="center">| Aspiring Data, AI & ML Professional |</h3>
 
 ---
 
