@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/banner.png" alt="DataCrafter20 Banner" width="100%">
+  <img src="./images/banner.png" alt="DataCrafter20 Banner" width="50%">
 </p>
 
 <h1 align="center" style="font-size: 48px; font-weight: bold; letter-spacing: 2px;">
