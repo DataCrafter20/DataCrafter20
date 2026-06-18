@@ -7,15 +7,8 @@
 </h1>
 
 <h1 align="center">Hi, I'm Ndivhuwo Munyai 👋</h1>
-<h3 align="center">AI Data Annotator | BSc Computer Science & Information Systems |</h3>
-<h3 align="center">| Aspiring Data, AI & ML Professional |</h3>
-
-<h1 align="center" style="font-size: 48px; font-weight: bold; letter-spacing: 2px;">
-  <code>DataCrafter 20</code>
-</h1>
-
-<h1 align="center">Hi, I'm Ndivhuwo Munyai 👋</h1>
-<h3 align="center">AI Data Annotator | BSc Computer Science & Information Systems |</h3>
+<h3 align="center">Data Science Intern | Student IT Technician | AI Data Annotator </h3>
+<h3 align="center">| BSc Computer Science & Information Systems |</h3>
 <h3 align="center">| Aspiring Data, AI & ML Professional |</h3>
 
 ---
